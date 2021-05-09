@@ -629,7 +629,7 @@ ul li {
 
 .section-2 .container-1 .box {
   position: relative;
-  width: 100%;
+  width: 300;
   height: 350px;
   margin: 10px;
   -webkit-box-sizing: border-box;
@@ -663,12 +663,8 @@ ul li {
 }
 
 .section-2 .container-1 .box .more {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  text-align: center;
+  color: #fafafa;
+  margin: 45% 50px;
 }
 
 .section-2 .container-1 .box .details {

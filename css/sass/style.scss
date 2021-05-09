@@ -537,7 +537,7 @@ ul {
 
         .box {
             position: relative;
-            width: 100%;
+            width: 300;
             height: 350px;
             margin: 10px;
             box-sizing: border-box;
@@ -564,11 +564,8 @@ ul {
             }
 
             .more {
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                text-align: center;
+                color: #fafafa;
+                margin: 45% 50px;
             }
 
             .details {
