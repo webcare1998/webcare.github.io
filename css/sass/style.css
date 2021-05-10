@@ -626,6 +626,17 @@ ul li {
   color: #f39128;
 }
 
+.section-2 button {
+  border: 1px solid #f39128;
+  border-radius: 5px;
+  color: #f39128;
+}
+
+.section-2 button:hover {
+  color: #fafafa;
+  background: #f39128;
+}
+
 .section-3 {
   background: var(--secondary);
 }
