@@ -82,6 +82,14 @@
         box-sizing: border-box;
         display: block !important;
     }
+
+    .section-2 form {
+        padding: 10px;
+    }
+
+    .section-2 form input{
+        width: 100%;
+    }
 }
 
 @media only screen and (max-width : 579px) {
